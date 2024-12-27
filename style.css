@@ -59,6 +59,7 @@ nav {
   justify-content: space-between;
 
   margin: var(--l-and-r-margin);
+  margin: var(--t-and-b-margin);
 }
 
 .fake-box {
@@ -92,7 +93,7 @@ ul li {
   align-items: center;
 
   height: 500px;
-  margin: 0 130px;
+  margin: 0 70px;
 
   font-size: var(--max-font-size);
 }
